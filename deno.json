@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "test": "deno test -A -c ./tsconfig.json"
+  },
+  "fmt": {
+    "semiColons": false,
+    "singleQuote": true
+  }
+}
